@@ -1,0 +1,10 @@
+.App {
+    max-width: 570px;
+    margin: auto;
+}
+.inputBox {
+    margin-left: 3px;
+}
+button {
+    margin-left: 3px;
+}
